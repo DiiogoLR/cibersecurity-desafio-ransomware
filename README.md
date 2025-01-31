@@ -1,0 +1,1 @@
+Este projeto faz parte do meu bootcamp de cibersegurança e consiste em um desafio prático envolvendo uma simulação de ransomware. O objetivo é ensinar conceitos fundamentais sobre segurança ofensiva e defensiva, explorando técnicas de ataque e mitigação de ameaças.
